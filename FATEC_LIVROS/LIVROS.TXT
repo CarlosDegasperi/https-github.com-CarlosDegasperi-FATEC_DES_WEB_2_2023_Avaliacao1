@@ -1,0 +1,3 @@
+Nome1,Genero1,Autor1,ISBN1 
+Nome2,Genero2,Autor2,ISBN2 
+Nome3,Genero3,Autor3,ISBN3 
